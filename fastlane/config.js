@@ -1,0 +1,1 @@
+export const baseURL = 'https://www.dofuu.com' || 'https://dofuu.com' 

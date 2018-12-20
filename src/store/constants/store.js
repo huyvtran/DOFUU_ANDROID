@@ -1,0 +1,7 @@
+export const FETCH_STORE         = 'FETCH_STORE'
+export const FETCH_STORE_SUCCESS = 'FETCH_STORE_SUCCESS'
+export const FETCH_STORE_FAILURE = 'FETCH_STORE_FAILURE'
+export const END_FETCH_STORE     = 'END_FETCH_STORE'
+export const DESTROY_FETCH_STORE = 'DESTROY_FETCH_STORE'
+export const SET_STORE           = 'SET_STORE'
+export const DESTROY_STORE       = 'DESTROY_STORE'
